@@ -42,3 +42,7 @@ yarn-error.log*
 Caddyfile
 #example apps
 examples/
+
+# Added by cargo
+
+/target
